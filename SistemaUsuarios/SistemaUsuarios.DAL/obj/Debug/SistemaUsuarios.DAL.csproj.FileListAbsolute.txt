@@ -1,0 +1,6 @@
+C:\Users\joya1\OneDrive - KinPOS Corporation\Escritorio\Prueba Final 2\SistemaUsuarios\SistemaUsuarios.DAL\bin\Debug\SistemaUsuarios.DAL.dll
+C:\Users\joya1\OneDrive - KinPOS Corporation\Escritorio\Prueba Final 2\SistemaUsuarios\SistemaUsuarios.DAL\bin\Debug\SistemaUsuarios.DAL.pdb
+C:\Users\joya1\OneDrive - KinPOS Corporation\Escritorio\Prueba Final 2\SistemaUsuarios\SistemaUsuarios.DAL\obj\Debug\SistemaUsuarios.DAL.csproj.AssemblyReference.cache
+C:\Users\joya1\OneDrive - KinPOS Corporation\Escritorio\Prueba Final 2\SistemaUsuarios\SistemaUsuarios.DAL\obj\Debug\SistemaUsuarios.DAL.csproj.CoreCompileInputs.cache
+C:\Users\joya1\OneDrive - KinPOS Corporation\Escritorio\Prueba Final 2\SistemaUsuarios\SistemaUsuarios.DAL\obj\Debug\SistemaUsuarios.DAL.dll
+C:\Users\joya1\OneDrive - KinPOS Corporation\Escritorio\Prueba Final 2\SistemaUsuarios\SistemaUsuarios.DAL\obj\Debug\SistemaUsuarios.DAL.pdb
